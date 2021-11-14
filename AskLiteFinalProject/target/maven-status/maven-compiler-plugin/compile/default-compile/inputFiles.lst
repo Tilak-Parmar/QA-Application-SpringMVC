@@ -1,0 +1,13 @@
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/DAO/DAO.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/controllers/AdminController.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/DAO/AnswerDAO.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/pojo/User.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/DAO/QuestionDAO.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/controllers/UserController.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/pojo/Answer.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/mailer/Mailer.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/pojo/Question.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/interceptor/MyInterceptor.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/controllers/LoginController.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/controllers/ErrorController.java
+/Users/tilak/NetBeansProjects/AskLiteFinalProject/src/main/java/com/asklite/DAO/UserDAO.java

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<hibernate-mapping>
+  <class name="com.asklite.pojo.Answer" table="AnswersTable">
+    <id name="ID" column="AnswerID" type="int">
+      <generator class="native"/>
+    </id>
+    <property name="answer" column="Answer" type="text"/>
+    <property name="questionID" column="QueID" type="int"/>
+    <property name="userID" column="UserID" type="int"/>
+    <property name="approved" column="Approved" type="boolean"/>
+  </class>
+</hibernate-mapping>

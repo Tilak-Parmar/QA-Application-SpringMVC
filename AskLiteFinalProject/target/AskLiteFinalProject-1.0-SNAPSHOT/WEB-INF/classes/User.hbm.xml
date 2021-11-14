@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<hibernate-mapping>
+  <class name="com.asklite.pojo.User" table="Users">
+    <id name="ID" column="UserID" type="int">
+      <generator class="native"/>
+    </id>
+    <property name="firstName" column="FirstName" type="string"/>
+    <property name="lastName" column="LastName" type="string"/>
+    <property name="email" column="Email" type="string"/>
+    <property name="password" column="UserPassword" type="string"/>
+  </class>
+</hibernate-mapping>
